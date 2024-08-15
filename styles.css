@@ -30,6 +30,7 @@
 .background-container {
   background-image: url('./ImageAssets/Workshop'), url('WoodenCraftDemos.png');
   background-repeat: no-repeat;
-  background-size: cover; /* Adjust to your preference */
-  height: 100px 100px; /* Adjust height as needed */
+  background-size: cover, cover; /* Adjust as needed */
+  height: 100vh;
+  width: 100vw;
 }
