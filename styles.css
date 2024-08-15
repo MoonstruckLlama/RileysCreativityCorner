@@ -38,5 +38,5 @@ body {
   background-image: url('./ImageAssets/Workshop'), url('WoodenCraftDemos.png');
   background-repeat: no-repeat;
   background-size: cover; /* Adjust to your preference */
-  height: 100vh; /* Adjust height as needed */
+  height: 50vh; /* Adjust height as needed */
 }
