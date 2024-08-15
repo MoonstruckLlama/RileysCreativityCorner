@@ -26,3 +26,10 @@
 
 .header 
 { background-image: url("./ImageAssets/WoodGrain.png"); } 
+
+/* Background Code */
+#background1 {
+  background-image: url(./ImageAssets/Workshop.png), url(./ImageAssets/WoodenCraftDemos.png);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+}
