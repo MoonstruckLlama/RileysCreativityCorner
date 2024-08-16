@@ -28,9 +28,10 @@
 { background-image: url("./ImageAssets/WoodGrain.png"); }
 
 .background-container {
-  background-image: url('./ImageAssets/Workshop'), url('WoodenCraftDemos.png');
+  background-image: url('./ImageAssets/Workshop'), url('./WoodenCraftDemos.png');
   background-repeat: no-repeat;
   background-size: cover, cover; /* Adjust as needed */
-  height: 100px;
-  width: 100px;
+  height: 100vh;
+  width: 100vw;
+  position: relative; /* If you have other elements on top */
 }
