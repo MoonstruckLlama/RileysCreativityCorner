@@ -43,7 +43,7 @@ body, html {
 }
 
 .background-container {
-    height: 200vh; /* Adjust as needed to ensure scrolling */
+    height: 100vh; /* Adjust as needed to ensure scrolling */
     position: relative;
 }
 
